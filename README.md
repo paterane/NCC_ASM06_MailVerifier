@@ -102,5 +102,3 @@ And, it trims the string b/t the two indexes, and passes it to the
 
 > ************************ **_THE END_** *********************************
 
->>>>>>> 297994f (Updated README)
->>>>>>> a273d2f (second commit)
