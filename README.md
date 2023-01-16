@@ -1,7 +1,5 @@
 # NCC_ASM06_MailVerifier
 
-# NCC_ASM06_MailVerifier
-
 # NCC_Assignment06
 ## Mail Verifier
 **About**: *The program* executes the string passed to it either from **_the File or user input_**, and verifies whether it is `mail format` or not.
