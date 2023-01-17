@@ -7,7 +7,7 @@ void wordUpper(char *word);
 void wordLower(char *word);
 int stringLen(const char *str); // note this function is only available for char array or string not for int array
 int stringCmp(char *str1, char *str2);
-void stringCopy(char *origin, char *copy);
+void stringCopy(char *origin, char *buff);
 int indexOf(char *str, char *idxStr);
 char *subString(char *str, int idxA, int idxB);
 int regExpress(char *str, char *pattern);
